@@ -71,14 +71,10 @@ button:hover {
   box-shadow: 10px 10px 40px -14px #000;
 }
 
-.captcha{
-  width: 100%;
+.field{
+  float: center;
   padding: 10px;
-  outline: none;
-  resize: none;
-  border: 0;
-  font-family: "Montserrat", sans-serif;
-  transition: all 0.3s;
+  background: #50505a;
 }
 
 span {
