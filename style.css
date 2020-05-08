@@ -70,6 +70,18 @@ button:hover {
   font-size: 13px;
   box-shadow: 10px 10px 40px -14px #000;
 }
+
+.captcha{
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  outline: none;
+  resize: none;
+  border: 0;
+  font-family: "Montserrat", sans-serif;
+  transition: all 0.3s;
+}
+
 span {
   margin: 0 5px 0 15px;
 }
